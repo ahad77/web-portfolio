@@ -1,0 +1,78 @@
+h1{
+    font-size: 30px;
+} 
+    
+.hh{color:orange;}
+.wel{color: cornflowerblue;}
+body{
+        font-family: 'Redressed', cursive;
+      margin: 0;}
+.ww{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.ww img{
+    width: 100%;
+}
+section{
+    height: 480px;
+    padding-bottom: 150px;
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+.dream-area{
+    background-image: url(dream-bg.png);
+    background-repeat:no-repeat;
+    background-position: right;
+
+}
+.exp-area{
+    background-image: url(exp-bg.png);
+    background-repeat:no-repeat;
+    background-position: left;
+
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+}
+.Rsm-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+
+}
+.siex{
+    box-shadow:10px 10px 40px gray;
+    height: 80%;
+    background-color: white;
+}
+
+#fs{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightSalmon, tomato);;
+    border-image-slice: 1;
+}
+#bw{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    color:gray;
+    font-size: 10px;
+}
